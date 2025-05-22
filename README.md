@@ -2,7 +2,7 @@
 
 <!-- Logo do colégio -->
 <p align="center">
-  <img src="https://link-da-logo-da-escola.com/logo.png" alt="Logo do Colégio" width="150"/>
+  <img src="https://https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg7pUgdhIBcK0EofpfGyHqaRFPL_18G0FvjA&s" alt="Logo do Colégio" width="150"/>
 </p>
 
 <p align="center">
