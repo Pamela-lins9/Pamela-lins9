@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Olá, eu sou Pamela Lins!
+___________________________
+📚 Sobre mim
+___________________________
+🎓 Escola:Marista Escola Social Cascavel
 
-<!--
-**Pamela-lins9/Pamela-lins9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Cidade:Cascavel
 
-Here are some ideas to get you started:
+🎂 Idade:15
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💍Namorando
+___________________________
+🚀 O que estou aprendendo
+___________________________
+✔️ Como usar o GitHub
+
+✔️ Criar repositórios e editar arquivos
